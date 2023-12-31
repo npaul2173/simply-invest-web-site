@@ -1,0 +1,7 @@
+@use "variables";
+
+h1 {
+  font-size: 32px;
+  color: variables.$black;
+  margin-bottom: 30px;
+}
